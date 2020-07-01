@@ -1,2 +1,2 @@
-# Candy-the-Catacorn_code_examples
+# Candy the Catacorn code examples
 Code examples for https://galaxyallie.space/Candy-the-Catacorn/
